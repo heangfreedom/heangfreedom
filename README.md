@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning how to learn code(Java) better 
 - 💞️ I’m looking to collaborate on teaching me Java
-- 📫 How to reach me myemail:heangfreedom@aliyun.com
+- 📫 How to reach me, myemail:heangfreedom@aliyun.com
 - 😄 Pronouns: learn code
 - ⚡ Fun fact: I'm learning 
 
